@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 453.75 83.35">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .09em;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        letter-spacing: .05em;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        font-size: 48px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #001751;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-family: FNSabinaShorolipiBanglaUnicode, 'FN ‍Sabina Shorolipi Bangla Unicode';
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-10 {
+        letter-spacing: .03em;
+      }
+
+      .cls-6 {
+        font-size: 30px;
+      }
+
+      .cls-7 {
+        fill: #0082fb;
+        font-size: 46.73px;
+      }
+
+      .cls-11 {
+        letter-spacing: .1em;
+      }
+
+      .cls-12 {
+        letter-spacing: .09em;
+      }
+
+      .cls-13 {
+        fill: #000b2b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 15.96px;
+      }
+
+      .cls-14 {
+        letter-spacing: .03em;
+      }
+
+      .cls-15 {
+        letter-spacing: .08em;
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="13.9" y1="14.55" x2="54.84" y2="55.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#019afc"/>
+      <stop offset="1" stop-color="#0046cb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="35.93" y1="29.72" x2="66.02" y2="59.81" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="7.2" y1="72.74" x2="15.92" y2="81.46" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="47.4" y1="72.74" x2="56.12" y2="81.46" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="21.05" y1="10.64" x2="43.62" y2="33.22" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-16" d="M20.56,57.71h23.55c11.36,0,20.56-9.2,20.56-20.56v-15.15c0-2.5-2.21-4.42-4.69-4.06l-9.92,1.44-12.97,23.61c-1.16,2.11-3.37,3.43-5.79,3.43-1.1,0-2.2-.28-3.17-.82l-13.5-7.41c-1.55-.85-2.67-2.26-3.17-3.94-.49-1.7-.3-3.48.55-5.03l2.58-4.69-11.16,1.62c-1.97.29-3.43,1.98-3.43,3.96v7.05c0,11.36,9.2,20.56,20.56,20.56Z"/>
+      <path class="cls-2" d="M89.33,12.21h-3.45c-8.48,0-15.41,6.9-15.44,15.38l-.04,10.2c-.07,13.99-11.49,25.36-25.47,25.36H3.55c-1.41,0-2.56,1.15-2.56,2.56s1.15,2.56,2.56,2.56h41.37c16.79,0,30.51-13.66,30.58-30.45l.04-10.21c.03-5.67,4.66-10.29,10.33-10.29h3.45c1.41,0,2.56-1.14,2.56-2.56s-1.14-2.56-2.56-2.56Z"/>
+      <circle class="cls-8" cx="11.56" cy="77.1" r="6.17"/>
+      <circle class="cls-4" cx="51.76" cy="77.1" r="6.17"/>
+      <path class="cls-9" d="M15.85,35.95l13.5,7.41c1.96,1.07,4.42.36,5.49-1.6l15.56-28.35c1.08-1.96.36-4.43-1.6-5.51L35.33.5c-1.97-1.07-4.44-.36-5.51,1.61l-15.56,28.34c-1.08,1.96-.36,4.42,1.6,5.5ZM36.35,5.33c.26-.49.87-.66,1.35-.39l6.47,3.55c.48.26.66.86.39,1.35-.26.48-.87.66-1.35.39l-6.47-3.55c-.48-.26-.66-.87-.39-1.35ZM23.7,33.52c.36-.26.81-.39,1.25-.36,2.26.14,3.04,2.84,1.21,4.17-.36.26-.81.39-1.25.37-2.26-.14-3.04-2.85-1.21-4.18Z"/>
+    </g>
+    <g>
+      <text class="cls-13" transform="translate(96.82 79.36)"><tspan class="cls-1" x="0" y="0">-- MOBILE SO</tspan><tspan class="cls-3" x="104.57" y="0">L</tspan><tspan class="cls-12" x="112.98" y="0">UTIONS S</tspan><tspan class="cls-15" x="187.31" y="0">M</tspan><tspan class="cls-1" x="201.44" y="0">A</tspan><tspan class="cls-11" x="212.66" y="0">R</tspan><tspan class="cls-1" x="222.85" y="0">TER SHOPPING --</tspan></text>
+      <g>
+        <text class="cls-6" transform="translate(395.76 52.38)"><tspan x="0" y="0">.pro</tspan></text>
+        <text class="cls-7" transform="translate(248.41 56.9) scale(1.03 1)"><tspan class="cls-14" x="0" y="0">D</tspan><tspan x="35.14" y="0">okan</tspan></text>
+        <text class="cls-5" transform="translate(94.92 56.4)"><tspan class="cls-10" x="0" y="0">M</tspan><tspan x="41.38" y="0">obile</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
